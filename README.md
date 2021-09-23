@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Lorenzo Tanganelli 👋
 
-<!--
-**LorenzoTanga-bot/LorenzoTanga-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student and Developer!
+- 👨🏻‍🎓  I graduated in ComputerScience at the University of Camerino!
+- 👨🏻‍🎓  I'm a Student of Computer and automation engineering at the University of Ferrara!
+- ⚡️  I'm always looking for new adventures 
+- ❤️‍🔥  Passionate about motorbike and enduro!
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][email]
+
+<br />
+<br />
+
+[email]: tanganellilore@gmail.com
+[facebook]: https://www.facebook.com/TanganelliLorenzo/
+[instagram]: https://www.instagram.com/tanganellilorenzo/
