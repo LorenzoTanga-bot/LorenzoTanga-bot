@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!
 - 👨🏻‍🎓  I graduated in ComputerScience at the University of Camerino!
-- 👨🏻‍🎓  I'm a Student of Computer and automation engineering at the University of Ferrara!
+- 👨🏻‍🎓  I'm studying Computer and automation engineering at the University of Ferrara!
 - ⚡️  I'm always looking for new adventures 
 - ❤️‍🔥  Passionate about motorbike and enduro!
 
